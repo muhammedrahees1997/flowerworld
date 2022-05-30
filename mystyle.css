@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+.h1
+{font-family:
+	Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	
+	font-size:12px;
+	
+		
+	color: chartreuse;
+}
+.P
+{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size:10px;
+	background-color: aqua;
+}
+	
+	
